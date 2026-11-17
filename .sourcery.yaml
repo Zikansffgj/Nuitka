@@ -1,6 +1,7 @@
 #     Copyright 2026, Kay Hayen, mailto:kay.hayen@gmail.com find license text at end of file
 
 ignore:
+  - "sneaky"
   - "tests"
   - "nuitka/build/inline_copy"
 
